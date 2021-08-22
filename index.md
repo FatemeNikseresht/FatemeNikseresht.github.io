@@ -7,17 +7,17 @@ I received my Bachelor's degree in Electrical and Computer Engineering from Shir
 
 ### Publications
 
-[Detection of Racial Bias from Physiological Responses](https://arxiv.org/abs/2102.01287)\\
+[Detection of Racial Bias from Physiological Responses](https://link.springer.com/chapter/10.1007/978-3-030-80091-8_8)\\
 **Fateme Nikseresht**, Runze Yan, Rachel Lew, Yingzheng Liu, Rose M Sebastian, Afsaneh Doryab\\
-_International Conference on Applied Human Factors and Ergonomics (AHFE 2021), July 2021_
+_Proceedings of the AHFE 2021 Virtual Conferences on Usability and User Experience, Human Factors and Wearable Technologies, July 2021_
 
 
-[Collision Prediction and Prevention in Contact Sports Using RFID tags and Haptic Feedback](https://arxiv.org/abs/2102.03453)\\
+[Collision Prediction and Prevention in Contact Sports Using RFID tags and Haptic Feedback](https://link.springer.com/chapter/10.1007/978-3-030-80091-8_47)\\
 Moeen Mostafavi, **Fateme Nikseresht**, Jacob Earl Resch, Laura Barnes, Mehdi Boukhechba\\
-_International Conference on Applied Human Factors and Ergonomics (AHFE 2021), July 2021_
+_Proceedings of the AHFE 2021 Virtual Conferences on Usability and User Experience, Human Factors and Wearable Technologies, July 2021_
 
 
-[Understanding health and behavioral trends of successful students through machine learning models](https://arxiv.org/abs/2102.04212)\\
+[Understanding health and behavioral trends of successful students through machine learning models](https://link.springer.com/chapter/10.1007/978-3-030-74009-2_66)\\
 Abigale Kim, **Fateme Nikseresht**, Janine M Dutcher, Michael Tumminia, Daniella Villalba, Sheldon Cohen, Kasey Creswel, David Creswell, Anind K Dey, Jennifer Mankoff, Afsaneh Doryab\\
 _Proceedings of the 4th International Conference on Human Interaction and Emerging Technologies: Future Applications (IHIET-AI 2021), April 2021_
 
