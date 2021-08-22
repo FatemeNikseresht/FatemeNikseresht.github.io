@@ -7,22 +7,22 @@ I received my Bachelor's degree in Electrical and Computer Engineering from Shir
 
 ### Publications
 
-[Detection of Racial Bias from Physiological Responses](https://arxiv.org/abs/2102.01287)
+[Detection of Racial Bias from Physiological Responses](https://arxiv.org/abs/2102.01287)\\
 **Fateme Nikseresht**, Runze Yan, Rachel Lew, Yingzheng Liu, Rose M Sebastian, Afsaneh Doryab
 _International Conference on Applied Human Factors and Ergonomics (AHFE 2021), July 2021_
 
 
-[Collision Prediction and Prevention in Contact Sports Using RFID tags and Haptic Feedback](https://arxiv.org/abs/2102.03453)
+[Collision Prediction and Prevention in Contact Sports Using RFID tags and Haptic Feedback](https://arxiv.org/abs/2102.03453)\\
 Moeen Mostafavi, **Fateme Nikseresht**, Jacob Earl Resch, Laura Barnes, Mehdi Boukhechba
 _International Conference on Applied Human Factors and Ergonomics (AHFE 2021), July 2021_
 
 
-[Understanding health and behavioral trends of successful students through machine learning models](https://arxiv.org/abs/2102.04212)
+[Understanding health and behavioral trends of successful students through machine learning models](https://arxiv.org/abs/2102.04212)\\
 Abigale Kim, **Fateme Nikseresht**, Janine M Dutcher, Michael Tumminia, Daniella Villalba, Sheldon Cohen, Kasey Creswel, David Creswell, Anind K Dey, Jennifer Mankoff, Afsaneh Doryab
 _Proceedings of the 4th International Conference on Human Interaction and Emerging Technologies: Future Applications (IHIET-AI 2021), April 2021_
 
 
-[Adaptive Humanoid Robots for Pain Management in Children](https://dl.acm.org/doi/abs/10.1145/3434074.3447224)
+[Adaptive Humanoid Robots for Pain Management in Children](https://dl.acm.org/doi/abs/10.1145/3434074.3447224)\\
 Sudhir Shenoy, Yueyue Hou, Xinran Wang, **Fateme Nikseresht**, Afsaneh Doryab
 _Companion of the 2021 ACM/IEEE International Conference on Human-Robot Interaction, Marrch 2021_
 
