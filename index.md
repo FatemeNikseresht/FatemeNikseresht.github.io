@@ -4,10 +4,10 @@ I am a Ph.D. student in the Department of Computer Science at the [University of
 I received my Bachelor's degree in Electrical and Computer Engineering from Shiraz University.
 
 ### Services and Organizations
-<span style="color:blue">
+<span style="color:green">
 #### Organizer 
 [13th IEEE Iran section student branch symposium (2016)](https://www.ieee.org.ir/events/student-branch-events/13th-general-meeting-ieee-student-branches)
-text</span>
+
 
 #### Reviewer
 [Ubicomp/IMWUT 2021](https://www.ubicomp.org/ubicomp2021/)\\
