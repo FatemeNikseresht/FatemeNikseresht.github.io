@@ -3,6 +3,7 @@ remote_theme: pages-themes/minimal@v0.2.0
 title: Welcome to Fateme's page!
 logo: photo_2021-10-06_13-49-54.jpg
 description: Ph.D. student in Computer Science at University of Virginia
+linkedin_username: fateme-nikseresht-456951149
 plugins:
    - jekyll-seo-tag
    - jekyll-remote-theme
