@@ -1,18 +1,18 @@
 
 ## Fateme Nikseresht
 
-I am a Ph.D. student in the Department of Computer Science at the University of Virginia. I work under the supervision of [Dr. Bradford Campbell](http://www.cs.virginia.edu/~bjc8c/). My research focuses on **human behavior modeling** using data streams collected through wearables and embedded systems. 
+I am a Ph.D. student in the Department of Computer Science at the [University of Virginia](https://engineering.virginia.edu/departments/computer-science). I work under the supervision of [Dr. Bradford Campbell](http://www.cs.virginia.edu/~bjc8c/). My research focuses on **human behavior modeling** using data streams collected through wearables and embedded systems. 
 
 I received my Bachelor's degree in Electrical and Computer Engineering from Shiraz University.
 
 ### Services and Organizations
-**Organizer** \\
+**Organizer** 
 [13th IEEE Iran section student branch symposium (2016)](https://www.ieee.org.ir/events/student-branch-events/13th-general-meeting-ieee-student-branches/)
 
-**Reviewer**\\
+**Reviewer**
 Ubicomp/IMWUT 2020, HRI 2021 Late Breaking Reports, and Ubicomp/IMWUT 2021
 
-**Student Volunteer**\\
+**Student Volunteer**
 [35th AAAI Conference on Artificial Intelligent](https://aaai.org/Conferences/AAAI-21/)
 
 ### Publications
