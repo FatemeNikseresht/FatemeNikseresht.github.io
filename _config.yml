@@ -1,5 +1,5 @@
 theme: minimal
-remote_theme: pages-themes/minimal@v0.2.0
+remote_theme: kralizek/minimal-mistakes
 title: Fateme Nikseresht
 logo: photo_2021-10-06_13-49-54.jpg
 description: Ph.D. student in Computer Science at University of Virginia
