@@ -3,13 +3,14 @@ remote_theme: tuur29/pages-themes-cayman
 title: Welcome to Fateme's page!
 description: Ph.D. student in Computer Science at University of Virginia
 plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
-  - jekyll-include-cache
-  - jekyll-seo
+   - jekyll-seo-tag
+#   - jekyll-paginate
+#   - jekyll-sitemap
+#   - jekyll-gist
+#   - jekyll-feed
+#   - jemoji
+#   - jekyll-include-cache
+  
 # liquid:
 #   error_mode: strict
 #   strict_variables: true
