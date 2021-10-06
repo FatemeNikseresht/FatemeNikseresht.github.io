@@ -10,18 +10,18 @@ I received my Bachelor's degree in Electrical and Computer Engineering from Shir
 ### Services and Organizations
 
 #### Organizer 
-[13th IEEE Iran section student branch symposium (2016)](https://www.ieee.org.ir/events/student-branch-events/13th-general-meeting-ieee-student-branches)
+* [13th IEEE Iran section student branch symposium (2016)](https://www.ieee.org.ir/events/student-branch-events/13th-general-meeting-ieee-student-branches)
 
 
 #### Reviewer
-[Ubicomp/IMWUT 2021](https://www.ubicomp.org/ubicomp2021/)\\
-[HRI 2021 Late Breaking Reports](https://humanrobotinteraction.org/2021/late-breaking-reports/)\\
-[Ubicomp/IMWUT 2020](https://ubicomp.org/ubicomp2020/)
+* [Ubicomp/IMWUT 2021](https://www.ubicomp.org/ubicomp2021/)\\
+* [HRI 2021 Late Breaking Reports](https://humanrobotinteraction.org/2021/late-breaking-reports/)\\
+* [Ubicomp/IMWUT 2020](https://ubicomp.org/ubicomp2020/)
 
 
 #### Student Volunteer
 
-[35th AAAI Conference on Artificial Intelligent](https://aaai.org/Conferences/AAAI-21)
+* [35th AAAI Conference on Artificial Intelligent](https://aaai.org/Conferences/AAAI-21)
 
 --- 
 
