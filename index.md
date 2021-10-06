@@ -10,9 +10,9 @@ I received my Bachelor's degree in Electrical and Computer Engineering from Shir
 
 
 #### Reviewer
-[Ubicomp/IMWUT 2021](https://www.ubicomp.org/ubicomp2021/)
-[HRI 2021 Late Breaking Reports](https://humanrobotinteraction.org/2021/late-breaking-reports/)
-[Ubicomp/IMWUT 2020](https://ubicomp.org/ubicomp2020/)
+[Ubicomp/IMWUT 2021](https://www.ubicomp.org/ubicomp2021/)\\
+[HRI 2021 Late Breaking Reports](https://humanrobotinteraction.org/2021/late-breaking-reports/)\\
+[Ubicomp/IMWUT 2020](https://ubicomp.org/ubicomp2020/)\\
 
 
 #### Student Volunteer
