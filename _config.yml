@@ -5,8 +5,8 @@ logo: photo_2021-10-06_13-49-54.jpg
 description: Ph.D. student in Computer Science at University of Virginia
 author:
   name: 'Fateme'
-  email: fn5an@virginia.edu
-  github_username:  fn5an
+  email: "fn5an@virginia.edu"
+  github_username: fn5an
   linkedin_username: fateme-nikseresht-456951149
 
 plugins:
