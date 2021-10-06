@@ -5,6 +5,8 @@ I am a Ph.D. student in the Department of Computer Science at the [University of
 
 I received my Bachelor's degree in Electrical and Computer Engineering from Shiraz University.
 
+---
+
 ### Services and Organizations
 
 #### Organizer 
@@ -21,6 +23,7 @@ I received my Bachelor's degree in Electrical and Computer Engineering from Shir
 
 [35th AAAI Conference on Artificial Intelligent](https://aaai.org/Conferences/AAAI-21)
 
+--- 
 
 ### Publications
 
