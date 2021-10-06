@@ -1,9 +1,10 @@
 theme: minimal
-remote_theme: tuur29/pages-themes-cayman
+remote_theme: pages-themes/minimal@v0.2.0
 title: Welcome to Fateme's page!
 description: Ph.D. student in Computer Science at University of Virginia
 plugins:
    - jekyll-seo-tag
+   - jekyll-remote-theme
 #   - jekyll-paginate
 #   - jekyll-sitemap
 #   - jekyll-gist
