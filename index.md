@@ -5,6 +5,10 @@ I am a Ph.D. student in the Department of Computer Science at the University of 
 
 I received my Bachelor's degree in Electrical and Computer Engineering from Shiraz University.
 
+### Services and Organizations
+[Organizer] (https://www.ieee.org.ir/events/student-branch-events/13th-general-meeting-ieee-student-branches/)
+13th IEEE Iran section student branch symposium (2016)
+
 ### Publications
 
 [Detection of Racial Bias from Physiological Responses](https://link.springer.com/chapter/10.1007/978-3-030-80091-8_8)\\
