@@ -1,7 +1,7 @@
 theme: minimal
 remote_theme: pages-themes/minimal@v0.2.0
-# title: Fateme Nikseresht
-# logo: photo_2021-10-06_13-49-54.jpg
+title: Fateme Nikseresht
+logo: photo_2021-10-06_13-49-54.jpg
 # description: Ph.D. student in Computer Science at University of Virginia
 # email: fn5an@virginia.edu
 # linkedin_username: fateme-nikseresht-456951149
@@ -26,12 +26,6 @@ plugins:
 author:
   name   : "Fateme Nikseresht"
   avatar : "photo_2021-10-06_13-49-54.jpg"
-  bio    : >-
-    My name is Fateme.
-
-    I was born in Naples, Italy but I've been living in Stockholm, Sweden since 2008.
-    I love working with .NET and AWS and to combine the two together.
-    You can read more about me in the [About me](/about/) section.
   location: "Stockholm, Sweden"
   twitter: "Kralizek"
   linkedin: "renatogolia"
