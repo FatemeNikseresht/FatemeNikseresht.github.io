@@ -9,6 +9,12 @@ I received my Bachelor's degree in Electrical and Computer Engineering from Shir
 [Organizer] (https://www.ieee.org.ir/events/student-branch-events/13th-general-meeting-ieee-student-branches/)
 13th IEEE Iran section student branch symposium (2016)
 
+[Reviewer]
+Ubicomp/IMWUT 2020, HRI 2021 Late Breaking Reports, and Ubicomp/IMWUT 2021
+
+[Student Volunteer] (https://aaai.org/Conferences/AAAI-21/)
+35th AAAI Conference on Artificial Intelligent
+
 ### Publications
 
 [Detection of Racial Bias from Physiological Responses](https://link.springer.com/chapter/10.1007/978-3-030-80091-8_8)\\
