@@ -7,8 +7,7 @@ author:
   name: Fateme
   email: fn5an@virginia.edu
   linkedin_username: fateme-nikseresht-456951149
-github:
-is\_project\_page:false
+github: is\_project\_page:false
 
 plugins:
    - jekyll-seo-tag
