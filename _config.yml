@@ -4,16 +4,16 @@ title: Fateme Nikseresht
 logo: photo_2021-10-06_13-49-54.jpg
 description: Ph.D. student in Computer Science at University of Virginia
 
-academic_email: fn5an@virginia.edu
+# academic_email: fn5an@virginia.edu
 
 # linkedin_username: fateme-nikseresht-456951149
 
 github: is\_project\_page:false
 
 
-- label: "LinkedIn"
-  icon: "fab fa-fw fa-linkedin"
-  url: "https://www.linkedin.com/in/leonardojhernandez"
+# - label: "LinkedIn"
+#   icon: "fab fa-fw fa-linkedin"
+#   url: "https://www.linkedin.com/in/leonardojhernandez"
 
 plugins:
    - jekyll-seo-tag
@@ -31,12 +31,12 @@ plugins:
 #   strict_filters: true
 
 
-# author:
-#   name   : "Fateme Nikseresht"
-#   avatar : "photo_2021-10-06_13-49-54.jpg"
-#   linkedin: "fateme-nikseresht-456951149"
-#   links:
-#     - label: "Email"
-#       icon: "fas fa-fw fa-envelope-square"
-#       url: "fn5an@virginia.edu"
+author:
+  name   : "Fateme Nikseresht"
+  avatar : "photo_2021-10-06_13-49-54.jpg"
+  linkedin: "fateme-nikseresht-456951149"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "fn5an@virginia.edu"
     
