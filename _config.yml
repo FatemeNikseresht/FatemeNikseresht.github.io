@@ -42,6 +42,6 @@ plugins:
   
   
 - label: "LinkedIn"
-  icon: "fab fa-fw fa-linkedin"
+  icon: "fa-linkedin"
   url: "https://www.linkedin.com/in/leonardojhernandez"
     
