@@ -31,12 +31,17 @@ plugins:
 #   strict_filters: true
 
 
-author:
-  name   : "Fateme Nikseresht"
-  avatar : "photo_2021-10-06_13-49-54.jpg"
-  linkedin: "fateme-nikseresht-456951149"
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "fn5an@virginia.edu"
+# author:
+#   name   : "Fateme Nikseresht"
+#   avatar : "photo_2021-10-06_13-49-54.jpg"
+#   linkedin: "fateme-nikseresht-456951149"
+#   links:
+- label: "Email"
+  icon: "fas fa-fw fa-envelope-square"
+  url: "fn5an@virginia.edu"
+  
+  
+- label: "LinkedIn"
+  icon: "fab fa-fw fa-linkedin"
+  url: "https://www.linkedin.com/in/leonardojhernandez"
     
