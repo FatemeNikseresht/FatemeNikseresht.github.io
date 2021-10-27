@@ -6,10 +6,15 @@ description: Ph.D. student in Computer Science at University of Virginia
 
 academic_email: fn5an@virginia.edu
 
-linkedin_username: fateme-nikseresht-456951149
+# linkedin_username: fateme-nikseresht-456951149
 
 github_username: fn5an
 #is\_project\_page:false
+
+
+- label: "LinkedIn"
+  icon: "fab fa-fw fa-linkedin"
+  url: "https://www.linkedin.com/in/leonardojhernandez"
 
 plugins:
    - jekyll-seo-tag
