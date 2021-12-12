@@ -54,7 +54,7 @@ _Companion of the 2021 ACM/IEEE International Conference on Human-Robot Interact
 ### News
 
 #### 2018
-I am excited to announce that I gained the highest score in the [FIDE Arbiter's Seminar](https://arbiters.fide.com/news/2555) test among 34 arbiters who participated in the seminar. 
+* I am excited to announce that I gained the highest score in the [FIDE Arbiter's Seminar](https://arbiters.fide.com/news/2555) test among 34 arbiters who participated in the seminar. 
 
 <!-- ![Image of Fateme]() -->
 
