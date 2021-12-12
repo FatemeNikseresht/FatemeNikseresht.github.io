@@ -25,6 +25,11 @@ I received my Bachelor's degree in Electrical and Computer Engineering from Shir
 
 ### Publications
 
+[The smart building privacy challenge](https://link.springer.com/chapter/10.1007/978-3-030-80091-8_8)\\
+Tong Wu, Murtadha Aldeer, Tahiya Chowdhury, Amber Haynes, **Fateme Nikseresht**, Mahsa Pahlavikhah Varnosfaderani, Jiechao Gao, Arsalan Heydarian, Brad Campbell, Jorge Ortiz\\
+_Proceedings of the 8th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation, November 2021_
+
+
 [Detection of Racial Bias from Physiological Responses](https://link.springer.com/chapter/10.1007/978-3-030-80091-8_8)\\
 **Fateme Nikseresht**, Runze Yan, Rachel Lew, Yingzheng Liu, Rose M Sebastian, Afsaneh Doryab\\
 _Proceedings of the AHFE 2021 Virtual Conferences on Usability and User Experience, Human Factors and Wearable Technologies, July 2021_
