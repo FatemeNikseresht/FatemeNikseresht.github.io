@@ -25,7 +25,7 @@ I received my Bachelor's degree in Electrical and Computer Engineering from Shir
 
 ### Publications
 
-[The smart building privacy challenge](https://link.springer.com/chapter/10.1007/978-3-030-80091-8_8)\\
+[The smart building privacy challenge](https://dl.acm.org/doi/abs/10.1145/3486611.3492234)\\
 Tong Wu, Murtadha Aldeer, Tahiya Chowdhury, Amber Haynes, **Fateme Nikseresht**, Mahsa Pahlavikhah Varnosfaderani, Jiechao Gao, Arsalan Heydarian, Brad Campbell, Jorge Ortiz\\
 _Proceedings of the 8th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation, November 2021_
 
