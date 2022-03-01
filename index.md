@@ -57,7 +57,7 @@ _Companion of the 2021 ACM/IEEE International Conference on Human-Robot Interact
 #### March 2022
 * I am happy to announce that our project proposal entitled "Sensor free occupancy detection and crowd counting system with wireless IoT device network" received [Experiential Learning (EL) Fund](https://wordpress.its.virginia.edu/Experiential_Learn_Fund/) award.
 
-#### May 2018
+#### June 2018
 * I am excited to announce that I achieved the highest score in the [FIDE Arbiter's Seminar](https://arbiters.fide.com/news/2555) test among 34 arbiters who participated in the Seminar, and I was awarded a norm for the FA title.
 
 <!-- ![Image of Fateme]() -->
