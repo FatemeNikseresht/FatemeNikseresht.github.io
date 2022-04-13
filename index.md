@@ -53,6 +53,7 @@ _Companion of the 2021 ACM/IEEE International Conference on Human-Robot Interact
 
 ### News
 
+
 #### April 2022
 * I am very excited to announce that I have been promoted to **FIDE Arbiter (FA)** by the decision of [2022 1st FIDE Council](https://ratings.fide.com/titles_page.phtml). 
 
