@@ -53,6 +53,9 @@ _Companion of the 2021 ACM/IEEE International Conference on Human-Robot Interact
 
 ### News
 
+#### April 2022
+* I am very excited to announce that I have been promoted to **FIDE Arbiter** by the decision of [2022 1st FIDE Council](https://ratings.fide.com/titles_page.phtml). 
+
 
 #### March 2022
 * I am happy to announce that our project proposal entitled **"Sensor-free occupancy detection and crowd counting system with wireless IoT device network"** received [Experiential Learning (EL) Fund](https://wordpress.its.virginia.edu/Experiential_Learn_Fund/) award.
