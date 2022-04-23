@@ -44,7 +44,7 @@ plugins:
  
  
  author:
-  type      : "organization"
+  type      : "person"
   name      : "Fateme Nikseresht"
   url       :
   avatar    : # path or url of avatar image (square)
