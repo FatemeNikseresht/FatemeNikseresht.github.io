@@ -5,23 +5,23 @@ I received my Bachelor's degree in Electrical and Computer Engineering from Shir
 
 ---
 
-### Services and Organizations
+### News
 
-#### Organizer 
-* [13th IEEE Iran section student branch symposium (2016)](https://www.ieee.org.ir/events/student-branch-events/13th-general-meeting-ieee-student-branches)
+#### April 2022
+* I am very excited to announce that I have been promoted to **FIDE Arbiter (FA)** by the decision of [2022 1st FIDE Council](https://ratings.fide.com/title_applications.phtml). 
 
+#### March 2022
+* I am happy to announce that our project proposal entitled **"Sensor-free occupancy detection and crowd counting system with wireless IoT device network"** received [Experiential Learning (EL) Fund](https://wordpress.its.virginia.edu/Experiential_Learn_Fund/) award.
 
-#### Reviewer
-* [Ubicomp/IMWUT 2021](https://www.ubicomp.org/ubicomp2021/)
-* [HRI 2021 Late Breaking Reports](https://humanrobotinteraction.org/2021/late-breaking-reports/)
-* [Ubicomp/IMWUT 2020](https://ubicomp.org/ubicomp2020/)
-
-
-#### Student Volunteer
-
-* [35th AAAI Conference on Artificial Intelligent](https://aaai.org/Conferences/AAAI-21)
+#### June 2018
+* I am excited to announce that I achieved the highest score in the [FIDE Arbiter's Seminar](https://arbiters.fide.com/news/2555) test among 34 arbiters who participated in the Seminar, and I was awarded a norm for the FA title.
 
 --- 
+
+### Active Projects
+
+
+---
 
 ### Publications
 
@@ -51,16 +51,24 @@ _Companion of the 2021 ACM/IEEE International Conference on Human-Robot Interact
 
 ---
 
-### News
+### Services and Organizations
 
-#### April 2022
-* I am very excited to announce that I have been promoted to **FIDE Arbiter (FA)** by the decision of [2022 1st FIDE Council](https://ratings.fide.com/title_applications.phtml). 
+#### Organizer 
+* [13th IEEE Iran section student branch symposium (2016)](https://www.ieee.org.ir/events/student-branch-events/13th-general-meeting-ieee-student-branches)
 
-#### March 2022
-* I am happy to announce that our project proposal entitled **"Sensor-free occupancy detection and crowd counting system with wireless IoT device network"** received [Experiential Learning (EL) Fund](https://wordpress.its.virginia.edu/Experiential_Learn_Fund/) award.
 
-#### June 2018
-* I am excited to announce that I achieved the highest score in the [FIDE Arbiter's Seminar](https://arbiters.fide.com/news/2555) test among 34 arbiters who participated in the Seminar, and I was awarded a norm for the FA title.
+#### Reviewer
+* [Ubicomp/IMWUT 2021](https://www.ubicomp.org/ubicomp2021/)
+* [HRI 2021 Late Breaking Reports](https://humanrobotinteraction.org/2021/late-breaking-reports/)
+* [Ubicomp/IMWUT 2020](https://ubicomp.org/ubicomp2020/)
+
+
+#### Student Volunteer
+
+* [35th AAAI Conference on Artificial Intelligent](https://aaai.org/Conferences/AAAI-21)
+
+
+
 
 <!-- ![Image of Fateme]() -->
 
