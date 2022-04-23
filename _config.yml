@@ -45,11 +45,11 @@ plugins:
  
  author:
   type      : "person"
-  name      : "Fateme Nikseresht"
+  name      : Fateme Nikseresht
   url       :
   avatar    : # path or url of avatar image (square)
   bio       : I am an amazing person.
-  email     :
+  email     : fn5an@virginia.edu
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
   twitter   : # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
   weibo     : # "user_id"   the last part of your profile url, e.g. https://www.weibo.com/user_id/profile?...
