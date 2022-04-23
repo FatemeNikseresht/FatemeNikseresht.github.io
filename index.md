@@ -20,6 +20,7 @@ I received my Bachelor's degree in Electrical and Computer Engineering from Shir
 
 ### Active Projects
 
+#### Sensor-free Occupancy Sensing
 
 ---
 
