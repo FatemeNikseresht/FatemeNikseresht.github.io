@@ -17,11 +17,40 @@
     </head>
     <body id="page-top">
         <style>
-        .bigger-image {
-            width: 300px; /* Adjust the width to your desired size */
-            height: 450px; /* Adjust the height to your desired size */
-        }
+            /* Make profile picture responsive */
+            .bigger-image {
+                width: 100%;
+                max-width: 220px;   /* avatar size on large screens */
+                height: auto;
+            }
+    
+            /* Make all content images responsive */
+            .project-image {
+                width: 100%;
+                height: auto;
+                max-width: 550px;   /* optional: keeps them from being too big on desktop */
+                margin: 0.5rem 0 1.5rem 0;
+                border-radius: 0.25rem;
+            }
+    
+            /* Add a bit more breathing room on very small screens */
+            .resume-section-content {
+                padding-right: 1rem;
+                padding-left: 1rem;
+            }
+    
+            /* Ensure side nav behaves nicely on phones */
+            @media (max-width: 991.98px) {
+                #sideNav {
+                    width: 100%;
+                    height: auto;
+                }
+                body {
+                    padding-top: 70px;  /* space for the collapsed navbar */
+                }
+            }
         </style>
+
 
         <!-- Navigation-->
         <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
